@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mikael Ayala! 👋
 
-- 💻 Estudando desenvolvimento back-end com foco em Java
+- 💻 Estudando desenvolvimento back-end com foco em Java e Spring Boot
 - 📒 Cursando o quarto semestre de Análise e Desenvolvimento de Sistemas
 
 ##
